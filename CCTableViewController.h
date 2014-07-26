@@ -1,5 +1,5 @@
 //
-//  OWViewController.h
+//  CCTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Calvin Cheah on 26/07/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface OWViewController : UIViewController
+@interface CCTableViewController : UITableViewController
 
 @end
